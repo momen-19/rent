@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715644499996",
+    "project_id": "rent-car-4d540",
+    "storage_bucket": "rent-car-4d540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715644499996:android:6fd5301679c9a0776e47d9",
+        "android_client_info": {
+          "package_name": "com.rent_your_car.rent_your_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715644499996-a45k4040ghf96hkcq25vfi7ihlhvgr9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfsjaroTM3pMwh5v2i0iZmfk8PvWJtN78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715644499996-a45k4040ghf96hkcq25vfi7ihlhvgr9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
